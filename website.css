@@ -55,7 +55,7 @@ img
 
 aside > img
 {
-    width: 45%;
+    width: 50%;
     height: auto;
 }
 
@@ -78,6 +78,16 @@ nav > ul > li
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.row
+{
+    display: flex;
+}
+
+.column
+{
+    flex: 50%;
 }
 
 .description
