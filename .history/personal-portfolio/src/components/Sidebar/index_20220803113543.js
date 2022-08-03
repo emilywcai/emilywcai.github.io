@@ -1,6 +1,6 @@
 import './index.scss'
 import Logo from '../../assets/ProfileNoBg.png'
-import LogoName from '../../assets/EmilyCursiveNoBg.png'
+import LogoName from '../../assets/EmilyCalligraphy-removebg.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
@@ -15,7 +15,6 @@ const Sidebar = () => (
     <div className="nav-bar">
         <Link className="logo" to="/">
             <img src={Logo} alt="profile logo" />
-            <img className="sub-logo" src={LogoName} alt="emily" />
         </Link>
 
         <nav>
