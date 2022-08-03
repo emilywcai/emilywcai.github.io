@@ -22,8 +22,7 @@
         width: auto;
         height: 200px;
         animation: swing 1.5s;
-        animation-fill-mode: both;
-        animation-delay: 1s;
+        animation-delay: 2s;
       }
     }
   
@@ -55,5 +54,9 @@
         background: #fd998a;
         color: #000000;
       }
+    }
+
+    @keyframes swing {
+        0% { opacity: }
     }
   }

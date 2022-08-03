@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
-import Logo from './Logo'
 import './index.scss'
 
 const Home = () => {
@@ -15,9 +14,9 @@ const Home = () => {
         <div className="container home-page">
             <div className="text-zone">
                 <h1> <AnimatedLetters
-                letterClass={letterClass}
-                strArray={introArray}
-                idx={15}
+              letterClass={letterClass}
+              strArray={nameArray}
+              idx={15}
                 />
                 <br />
                 <img src={LogoName} alt="name" />
@@ -25,7 +24,6 @@ const Home = () => {
                 <h2>Software Engineering Student / Web Developer</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
-            <Logo />
         </div>
     )
 }

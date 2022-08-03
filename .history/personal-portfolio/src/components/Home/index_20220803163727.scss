@@ -21,9 +21,10 @@
         margin-bottom: -20px;
         width: auto;
         height: 200px;
+        fill-opacity: 0;
         animation: swing 1.5s;
-        animation-fill-mode: both;
-        animation-delay: 1s;
+        
+        animation-fill-mode: forwards;
       }
     }
   
