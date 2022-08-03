@@ -4,9 +4,9 @@ html {
 
 body {
   margin: 0;
-  font-family: 300 12px/1.5 'Raleway-Regular', 'sans-serif';
+  font: 300 12px/1.5 "DejaVuSans", "sans-serif";
   color: #000000;
-  background: #fcd2f4;
+  background: #ffffff;
   overflow: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
