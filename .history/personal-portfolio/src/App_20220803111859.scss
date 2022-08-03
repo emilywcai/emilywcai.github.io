@@ -17,8 +17,15 @@ $primary-color: #fd998a;
 }
 
 @font-face {
-  font-family: "Allura-Regular";
-  src: url("./assets/Allura-Regular.otf") format("otf");
+  font-family: "DancingScript-Regular";
+  src: url("./assets/DancingScript-Regular.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DancingScript-Regular";
+  src: url("./assets/DancingScript-Regular.otf") format("otf");
   font-weight: normal;
   font-style: normal;
 }
