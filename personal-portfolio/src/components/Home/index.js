@@ -11,6 +11,12 @@ const Home = () => {
 
     const introArray = ['H', 'e', 'l', 'l', 'o', ',', ' ', 'I', '\'', 'm']
 
+    useEffect(() => {
+        return setTimeout(() => {
+          setLetterClass('text-animate-hover')
+        }, 4000)
+      }, [])
+
     return (
         <div className="container home-page">
             <div className="text-zone">
@@ -23,7 +29,7 @@ const Home = () => {
                 <img src={LogoName} alt="name" />
                 </h1>
                 <h2>Software Engineering Student / Web Developer</h2>
-                <Link to="/contact" className="flat-button">CONTACT ME</Link>
+                <Link to="/contact" className="flat-button">CONNECT WITH ME</Link>
             </div>
             <Logo />
         </div>

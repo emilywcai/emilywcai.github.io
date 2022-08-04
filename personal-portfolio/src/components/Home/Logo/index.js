@@ -1,8 +1,14 @@
-import { useEffect, useRef } from 'react'
-import gsap from 'gsap-trial'
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
+import PinkLaptop from '../../../assets/PinkLaptop.png'
+import PinkLaptopDecor from '../../../assets/PinkLaptopDecor.png'
 import './index.scss'
 
-const Logo = () => ("Hello")
+const Logo = () => {
+    return (
+        <div className="logo-container">
+            <img className="logo-plain" src={ PinkLaptop } alt="plain laptop logo" />
+            <img className="logo-decor" src={ PinkLaptopDecor } alt="final laptop logo" />
+        </div>
+    )
+}
 
 export default Logo

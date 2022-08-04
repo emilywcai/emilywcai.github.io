@@ -13,15 +13,16 @@
       font-size: 56px;
       line-height: 53px;
       margin: 0;
-      font-family: "Raleway-Regular";
-      font-weight: 400;
+      font-family: "Raleway-Regular", "sans-serif";
+      font-weight: 550;
+      letter-spacing: 3px;
   
       img {
         margin-left: -45px;
         margin-bottom: -20px;
         width: auto;
         height: 200px;
-        animation: swing 1.5s;
+        animation: slideInLeft 1.5s;
         animation-fill-mode: both;
         animation-delay: 1s;
       }
@@ -39,7 +40,7 @@
   
     .flat-button {
       color: #fd998a;
-      font-size: 13px;
+      font-size: 15px;
       font-weight: 400;
       letter-spacing: 4px;
       font-family: "DejaVuSans";
