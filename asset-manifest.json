@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5618275f.css",
-    "main.js": "/static/js/main.68987b31.js",
+    "main.css": "/static/css/main.43866c68.css",
+    "main.js": "/static/js/main.f8918c23.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/PinkLaptop.png": "/static/media/PinkLaptop.48b6a271ef97060969a0.png",
     "static/media/ProfilePic.png": "/static/media/ProfilePic.05b419566f6f94bfbeef.png",
@@ -13,12 +13,12 @@
     "static/media/ProfileNoBg.png": "/static/media/ProfileNoBg.089649ddfc85bc5ca2d0.png",
     "static/media/Allura-Regular.otf": "/static/media/Allura-Regular.ce8c797ddb41ea1c94c8.otf",
     "index.html": "/index.html",
-    "main.5618275f.css.map": "/static/css/main.5618275f.css.map",
-    "main.68987b31.js.map": "/static/js/main.68987b31.js.map",
+    "main.43866c68.css.map": "/static/css/main.43866c68.css.map",
+    "main.f8918c23.js.map": "/static/js/main.f8918c23.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5618275f.css",
-    "static/js/main.68987b31.js"
+    "static/css/main.43866c68.css",
+    "static/js/main.f8918c23.js"
   ]
 }
