@@ -1,7 +1,7 @@
 $primary-color: #fd998a;
 
 @import 'animate.css';
-@import '~loaders.css/src/animations/cube-transition';
+@import '~loaders.css/src/animations/triangle-skew-spin';
 
 @font-face {
   font-family: "Raleway-Regular";
@@ -27,10 +27,6 @@ $primary-color: #fd998a;
 input, 
 textarea {
   font-family: "Raleway-Regular";
-}
-
-.loader-hidden {
-  display: none;
 }
 
 .loader-active {

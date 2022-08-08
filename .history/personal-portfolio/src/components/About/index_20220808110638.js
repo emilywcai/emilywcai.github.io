@@ -11,7 +11,6 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import ProfilePic from '../../assets/ProfilePic.png'
 import ProfilePicDecor from '../../assets/ProfilePicDecor.png'
-import Loader from 'react-loaders'
 import './index.scss'
 
 const About = () => {
@@ -25,7 +24,6 @@ const About = () => {
       }, [])
 
     return (
-        <>
         <div className="container about-page">
 
             <img className="profile-plain" src={ ProfilePic } alt="profile photo" />
@@ -83,8 +81,7 @@ const About = () => {
                 </div>
             </div>
         </div>
-        <Loader type="cube-transition" />
-        </>
+        <
     )
 }
 

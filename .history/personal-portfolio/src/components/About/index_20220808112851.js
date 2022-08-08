@@ -83,7 +83,7 @@ const About = () => {
                 </div>
             </div>
         </div>
-        <Loader type="cube-transition" />
+        <Loader type="triangle-skew-spin " />
         </>
     )
 }
