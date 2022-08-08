@@ -34,7 +34,6 @@ const Home = () => {
             </div>
             <Logo />
         </div>
-        <Loader type="cube-transition" />
         </>
     )
 }

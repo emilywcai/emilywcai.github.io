@@ -18,7 +18,7 @@ const Home = () => {
       }, [])
 
     return (
-        <>
+        <></>
         <div className="container home-page">
             <div className="text-zone">
                 <h1> <AnimatedLetters
@@ -34,8 +34,6 @@ const Home = () => {
             </div>
             <Logo />
         </div>
-        <Loader type="cube-transition" />
-        </>
     )
 }
 
