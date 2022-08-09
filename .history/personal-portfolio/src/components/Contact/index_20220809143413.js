@@ -105,7 +105,7 @@ const Contact = () => {
                     />
                     <Marker position={[43.466789, -79.690300]}>
                         <Popup>
-                            I'm currently based in Oakville! <br /> However, I'm willing to travel anywhere.
+                        A pretty CSS3 popup. <br /> Easily customizable.
                         </Popup>
                     </Marker>
                 </MapContainer>
