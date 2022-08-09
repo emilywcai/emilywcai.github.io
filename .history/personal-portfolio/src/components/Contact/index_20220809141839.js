@@ -92,23 +92,7 @@ const Contact = () => {
                 <div className="info-map">
                     Emily Cai
                     <br />
-                    Oakville, Ontario <br />
-                    Canada <br />
-                    <span>emilyw.cai@gmail.com</span>
-                </div>
-
-                <div className="map-wrap">
-                <MapContainer center={[43.466789, -79.690300]} zoom={13} scrollWheelZoom={false}>
-                    <TileLayer
-                        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                    />
-                    <Marker position={[43.466789, -79.690300]}>
-                        <Popup>
-                            I'm currently based in Oakville! <br /> However, I'm willing to travel anywhere.
-                        </Popup>
-                    </Marker>
-                </MapContainer>
+                    Oakville, Ontario
                 </div>
             </div>
             <Loader type="cube-transition" />
