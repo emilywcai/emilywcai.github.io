@@ -98,7 +98,7 @@ const Contact = () => {
                 </div>
 
                 <div className="map-wrap">
-                <MapContainer center={[43.4675, -79.6877]} zoom={15} scrollWheelZoom={true}>
+                <MapContainer center={[43.4675, -79.6877]} zoom={12} scrollWheelZoom={true}>
                     <TileLayer
                         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
