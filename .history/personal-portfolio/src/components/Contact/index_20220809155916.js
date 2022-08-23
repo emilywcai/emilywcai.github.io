@@ -98,12 +98,12 @@ const Contact = () => {
                 </div>
 
                 <div className="map-wrap">
-                <MapContainer center={[43.4675, -79.6877]} zoom={15} scrollWheelZoom={true}>
+                <MapContainer center={[43.4675, -79.690300]} zoom={13} scrollWheelZoom={false}>
                     <TileLayer
                         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
-                    <Marker position={[43.4675, -79.6877]}>
+                    <Marker position={[43.466789, -79.690300]}>
                         <Popup>
                             I'm currently based in Oakville! <br /> However, I'm willing to travel anywhere.
                         </Popup>
