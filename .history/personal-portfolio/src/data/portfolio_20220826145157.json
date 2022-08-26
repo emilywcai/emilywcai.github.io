@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/global-partea/GlobalPartea.jpg",
+            "title": "Global Par-tea Website",
+            "description": "This website was created with CSS, JavaScript, and React for the frontend. The backend was developed with the Amazon Polly API, Python, and the Flask framework.",
+            "url": "https://devpost.com/software/global-par-tea"
+        },
+        {
+            "cover": "/portfolio/study-a-latte/StudyALatte.jpg",
+            "title": "Study A Latte App",
+            "description": "This mobile app was designed and prototyped with Figma and the Timer plugin by Leonard Thomas.",
+            "url": "https://devpost.com/software/study-a-latte"
+        }
+    ]
+}
