@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d04dc6e5.css",
-    "main.js": "/static/js/main.923c4c84.js",
+    "main.css": "/static/css/main.c933dcee.css",
+    "main.js": "/static/js/main.ceb7bb17.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/PinkLaptop.png": "/static/media/PinkLaptop.48b6a271ef97060969a0.png",
     "static/media/ProfilePic.png": "/static/media/ProfilePic.05b419566f6f94bfbeef.png",
@@ -13,12 +13,12 @@
     "static/media/ProfileNoBg.png": "/static/media/ProfileNoBg.089649ddfc85bc5ca2d0.png",
     "static/media/Allura-Regular.otf": "/static/media/Allura-Regular.ce8c797ddb41ea1c94c8.otf",
     "index.html": "/index.html",
-    "main.d04dc6e5.css.map": "/static/css/main.d04dc6e5.css.map",
-    "main.923c4c84.js.map": "/static/js/main.923c4c84.js.map",
+    "main.c933dcee.css.map": "/static/css/main.c933dcee.css.map",
+    "main.ceb7bb17.js.map": "/static/js/main.ceb7bb17.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d04dc6e5.css",
-    "static/js/main.923c4c84.js"
+    "static/css/main.c933dcee.css",
+    "static/js/main.ceb7bb17.js"
   ]
 }
