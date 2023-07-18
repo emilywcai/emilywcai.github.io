@@ -20,7 +20,7 @@ const Contact = () => {
         e.preventDefault();
 
         emailjs.sendForm (
-                "service_0zwe1wg", 
+                "service_t2y9aec", 
                 "template_dnglo6y", 
                 form.current, 
                 "FU__-uValCKMfyKZk"
@@ -98,14 +98,14 @@ const Contact = () => {
                 </div>
 
                 <div className="map-wrap">
-                <MapContainer center={[43.466789, -79.690300]} zoom={13} scrollWheelZoom={false}>
+                <MapContainer center={[43.4675, -79.6877]} zoom={15} scrollWheelZoom={true}>
                     <TileLayer
                         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
-                    <Marker position={[43.466789, -79.690300]}>
+                    <Marker position={[43.4675, -79.6877]}>
                         <Popup>
-                            I'm current <br /> Easily customizable.
+                            I'm currently based in Oakville! <br /> However, I'm willing to travel anywhere.
                         </Popup>
                     </Marker>
                 </MapContainer>

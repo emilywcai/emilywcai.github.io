@@ -20,7 +20,7 @@ const Contact = () => {
         e.preventDefault();
 
         emailjs.sendForm (
-                "service_0zwe1wg", 
+                "service_t2y9aec", 
                 "template_dnglo6y", 
                 form.current, 
                 "FU__-uValCKMfyKZk"
