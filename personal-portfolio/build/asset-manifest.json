@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c933dcee.css",
+    "main.js": "/static/js/main.fc42f3fc.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/PinkLaptop.png": "/static/media/PinkLaptop.48b6a271ef97060969a0.png",
+    "static/media/ProfilePic.png": "/static/media/ProfilePic.05b419566f6f94bfbeef.png",
+    "static/media/DejaVuSans.ttf": "/static/media/DejaVuSans.67ed0b9aeb82e75288aa.ttf",
+    "static/media/PinkLaptopDecor.png": "/static/media/PinkLaptopDecor.bffc4e967189185cdcb9.png",
+    "static/media/ProfilePicDecor.png": "/static/media/ProfilePicDecor.3dceae95bcd11b5e2303.png",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.c268e80ba67c4a294054.ttf",
+    "static/media/Emily.png": "/static/media/Emily.8180ba636eeca03f7da6.png",
+    "static/media/ProfileNoBg.png": "/static/media/ProfileNoBg.089649ddfc85bc5ca2d0.png",
+    "static/media/Allura-Regular.otf": "/static/media/Allura-Regular.ce8c797ddb41ea1c94c8.otf",
+    "index.html": "/index.html",
+    "main.c933dcee.css.map": "/static/css/main.c933dcee.css.map",
+    "main.fc42f3fc.js.map": "/static/js/main.fc42f3fc.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c933dcee.css",
+    "static/js/main.fc42f3fc.js"
+  ]
+}
