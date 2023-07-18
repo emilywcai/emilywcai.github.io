@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://emilywcai.github.io",
   "dependencies": {
-    "@emailjs/browser": "^3.6.2",
+    "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
